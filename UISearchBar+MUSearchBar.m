@@ -26,6 +26,7 @@
         [invocation setSelector:centerSelector];
         [invocation setArgument:&centeredPlaceholder atIndex:2];
         [invocation invoke];
+        
     }
 }
 
